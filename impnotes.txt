@@ -1,0 +1,1350 @@
+git clone https://shubhamhal@bitbucket.org/wrkspc123/ekuberworks.git
+git
+shubham101601
+Shubh@m12345678
+
+202400056156
+9422446363
+
+techsupport1-doa@nic.in
+D2$wB8$dO4
+
+500000
+GPF_MAX
+
+nicdoa1@gmail.com
+nicdoa@123
+
+IP Address assigned : 10.26.66.245
+user aacceptance test template
+
+10.155.175.40
+Ec#@11@nP@ymentG@te
+user:pfmssftp
+PWD:Pfms$ftp#12345
+user:doaftp/ekuber
+PWD:Do@Go@Web#12345
+10.190.22.26
+Account@123456D
+PA33U8
+
+
+10.155.175.134
+Administrator
+Ec#@11@nS@curityAudit
+
+10.190.22.7
+doa/administrator
+Account@123456D
+
+
+10.190.22.25
+test_server@123
+
+
+10.155.175.134
+administrator
+Ec#@11@nS@curityAudit
+
+
+
+https://echallanws.goa.gov.in/
+http://164.100.183.26/
+D2$wB8$dO4
+
+
+164.100.183.25  pg
+164.100.183.26 pgws
+175.46
+14 
+https://164.100.148.77/echallanpg/home.aspx
+
+
+http://10.155.4.223/echallanpg/about.aspx?_TSM_Bundles_=&_TSM_CombinedScripts_=True&cdn=False&v=gJ5OIkSl6Nlz2CUR9exIMRujjfooORu2JQZ6ohNPYNE1
+
+
+http://10.155.4.223/echallanpg
+
+
+https://10.155.4.223/echallanpg/home.aspx
+https://localhost/echallanpg/
+http://localhost/echallanpg/ChangeReg.aspx
+
+https://localhost/echallanpg/
+
+https://learn.microsoft.com/en-us/iis/manage/configuring-security/how-to-set-up-ssl-on-iis
+
+
+"https://meet.google.com/yaq-tnfr-drb"
+
+
+https://echallanws.goa.gov.in/service.asmx?op=eChallanPaymentStatus
+
+MPR shubham
+Echallan new services=2
+Number of bills passed=9751
+Gross amount=957,05,42,623
+Net amount=857,58,33,838
+
+Echallan sbi intergration some changes are left to be completed of api response from bob side.
+working on Gaz part bills.
+
+
+
+AFZPR7147H
+202400000010
+support.sbiepay@sbi.co.in
+
+
+mariat   cerina
+
+Guru rashmi gosavi  13023
+
+ACAPH5396L
+
+
+----9284839054
+
+set serveroutput on;
+var EXTRA_PANDETAILS varchar2(2000);
+
+execute payroll.GPF_VALIDATE_TABLES_SAVE(2022031101, 2024,2024,03,:EXTRA_PANDETAILS);
+
+6
+14
+
+
+D:\Shubham\epagaar\epagaar2020\final integrated copy to be hosted\epagaar\epagaar
+
+
+ 
+
+Bank response was not received correctly. We are sorry, 
+we cannot generate E-Receipt at this moment! for 202400000015(SP16) 
+
+https://www.slimjet.com/chrome/google-chrome-old-version.php
+
+
+https://meet.google.com/zzu-bdns-faa
+
+
+ORIGIN AND REFERE
+ 
+
+ 
+ARIPP2673B	3	2024	01-03-2024 12:00:00	11-03-2024 12:00:00	2024006372	1
+ARIPP2673B	3	2024	12-03-2024 12:00:00	31-03-2024 12:00:00	2024006380	2
+BBBPG3519F
+
+https://www.youtube.com/watch?v=mMgBbeaJP2M
+
+AIGPD7391H
+
+expdp doa/doa directory=dp_dir dumpfile=doa03102025_500pm.dmp logfile=doa03102025_500pm.log
+
+expdp doa/doa directory=dp_dir dumpfile=doa23122025_0500pm.dmp logfile=doa23122025_0500pm.log tables=pgechallandetails,echallan
+
+10	173	1	FEES COLLECTED UNDER FEMA 1999	003003104040000	0
+
+expdp doa/doa directory=dp_dir dumpfile=doa12082025_0930am.dmp logfile=doa06082025_0930am.log tables=pgechallandetails,echallan INCLUDE=SEQUENCE:IN ('ECHALLAN_SEQ')
+https://indianbikesspares.com/product/duke-200-ecu-cdi-integral-unit-ju402000/?gad_source=1&gclid=CjwKCAjwpbi4BhByEiwAMC8Jnbq5XvhG7yLLNmvD0KEeiUWgOo4kMt0nrtom1-WkM9rrZ1HKjhSCdRoCKVEQAvD_BwE
+
+
+ CREATE SEQUENCE  "DOA"."ECHALLAN_SEQ"  MINVALUE 1 MAXVALUE 999999999999999999999999999 
+ INCREMENT BY 1 START WITH 530433 NOCACHE  NOORDER  NOCYCLE  NOKEEP  NOSCALE  GLOBAL ;
+ 202500530433
+ 
+ drop sequence "DOA"."ECHALLAN_SEQ"
+  select * from doa.echallan where echallanno like '2025%' order by echallanno desc;
+
+
+
+Tz9sXuEz
+
+NABARD (Loans)
+qym-uzrw-ucn
+
+Echallan new services =2
+Number of bills passed =9487
+Gross amount =3325712645
+Net amount = 2627347340
+
+https://echallanws.goa.gov.in/service.asmx
+
+
+SHOW PARAMETER COMMON_USER_PREFIX;
+
+ALTER SYSTEM SET COMMON_USER_PREFIX = '' SCOPE = SPFILE;
+
+https://10.155.0.33/eChallanPGCore/HaveEchallan
+
+https://164.100.148.77/eChallanPGCore/HaveEchallan
+https://164.100.148.77/HaveEchallan
+
+nifinyt3d T0483063
+
+echallanPgCore
+
+https://164.100.148.77/echallanpg/sbiepaysuccess.aspx
+
+https://164.100.148.77/sbiepaysuccess
+https://164.100.148.77/sbiepaysuccess
+
+mukesh.choudhary@nic.in
+201400023578
+862
+
+
+pan changed....BRSPM6592A
+
+
+---------------------------
+
+
+
+https://test.sbiepay.sbi/merchant/merchantprelogin.htm
+
+https://uatmerchant.onlinesbi.sbi/thirdparties/doubleverification.htm
+
+
+
+
+----head changes----------------------
+
+--update  payroll.alldeductions  set head=concat(head,'00');
+
+--select * from payroll.alldeductions;
+
+all deductions
+emp_deductions/hist
+tempsaldeductions
+billset master/hist
+temparrdata
+tempincdata
+INSERT_NB_TO_PAYROLL_NEW---dedhead hardcoded
+bcr2006.eddocommon
+bcr2006.bcrddo
+substring
+INSERT_NB_TO_EDDO-- new columns
+
+2071 0111 70 1 00 01
+
+AEKPV5180N
+1442
+
+
+ALBPN2127P  admin043
+
+mamta.k@nic.in
+053
+
+GGMPP9266D
+
+GGMPP9266D  122024211230
+
+AORPV1180M					31	PRIYANKA DEELIP VELGEKAR
+11-11-1992 12:00:00
+
+
+
+BOB
+
+
+key id====  rzp_live_GiNeVb82nVFjwU
+
+key secret === uCF1JwkBkOx1dPs5f3j6o1Au
+
+
+dd0 463 imported to march
+
+2024036741
+2024063743
+2024063745
+2024038129
+
+
+
+
+38 & 36
+
+added by sandesh on 02052025
+2025	21	70	440800000010000	2	2	0	0	0	1		Y
+2025	21	70	440800000020000	2	2	0	0	0	1		Y
+
+
+removed data for the month of march.
+AFYPG1092B	1002222				11	PRASAD B GAONKAR	N0012487
+
+12-03-2025 12:00:00	31-03-2025 12:00:00
+
+https://solutions.ext.dev.razorpay.in/v2/goa/pay
+
+{
+"requestparam":"SJgQN4vWbAXVxxY3HocBGd6IHKDEMmhb5mLyFflU5Aejp+yETKkGqDG2QTk6PzOc7Tq413NyT02Lhy9OIAaJUqiR1bJSxSo2hF4uevFeLQ9m0V7ObOKR/3KFmMv76kYfIGKyMiDBPWQ1WNCUrsn5sw=="
+
+}
+
+
+echallan data imported 
+10,11,12,15,16
+
+
+Dear Sir/Ma'am,
+
+
+Thanks & regards
+Shubham
+
+Prabhu
+
+Dnyandeeparolkar
+AUWPM3176B
+"Mukesh Choudhary" <mukesh.choudhary@nic.in>; 
+
+receipts	1VF608HDZOFAIAKFG1PHW9AV3/GG+X50XDQUDP0UBI2TDDAJMCQ3VTOS+YWARCMXIA6U9TY8SOLJCXIZD3DAVA==	21	02	1	2	nHXqnJhfYjMKtar9DTNKJA==	31-12-2030 12:00:00
+
+
+HASH	NUMBER(1,0)	No	NULL 	6	
+SALT	VARCHAR2(25 BYTE)	Yes		7	
+PASSEXPIRYDATE	DATE	Yes		8	
+
+eKuberPFMS
+eKuberC@$#22
+
+receipts
+Treasury@123
+
+
+AB21330ECF3A51B072DF32510FDAD289
+https://10.155.4.223/doaws/api/Account/AuthenticateTreasuryUser
+
+cheque no gen on live   4416632
+
+9822089087
+202500170927
+202500107503
+202500203872
+202500228740
+
+bob
+curl
+
+ plainText = "PAV742Lu0Szw4C|INR|11.00|MANISH KUMAR MEENA|https://echallanpg.goa.gov.in/returnurl|GOA14051518E";// "PAV742Lu0Szw4C|'INR'|1|'Francis Thomas'|'https://testechallanpg.goa.gov.in/returnurl'|201400023578";
+ hexKey = "ba485f28e298bd6b330f6acb496aab4d56a7018f011c1d05c33ae24ec65373bd";
+ 
+ 1vpStJ2oP0DXddTEnARFEee_uDptxYuv7Ofk1O-e4RFVirA6h6Ao5IIjjbx0tlU76pJmp5O3e_iycC0nedt71_tEwrTb5Xxl0hmTdMEjMis%3D
+ 1vpStJ2oP0DXddTEnARFEee_uDptxYuv7Ofk1O-e4RFVirA6h6Ao5IIjjbx0tlU76pJmp5O3e_iycC0nedt71_tEwrTb5Xxl0hmTdMEjMis=
+https://echallanws.goa.gov.in/service.asmx
+
+https://www.youtube.com/watch?v=cfOITddizSc
+
+BEMPC0332N --------TO BE IMPORTED NEXT MONTH.
+
+
+AIKPD3203C
+
+getAutoBillSet
+
+
+CSDPP1948R
+
+
+202500370322
+
+panno in('AFQPN4532D','BAOPG3648B','CLRPK6714K')
+select * from doa.echallan1 where echallanno>202400370322
+"202500000001"
+
+202500000007
+
+PAV742Lu0Szw4C|Test|INR|11|MANISH KUMAR MEENA|GOA14051518E|NA|FAILED|||||
+PAV742Lu0Szw4C|INR|101|gfggf|202500000002|pay_QfTZgNXqB4dMbi|SUCCESS|2025-06-10 16:55:14|Payment Successful|BARB202500000002|BARB|UPI
+
+
+
+success
+akvwEuAgBR-cl7uuWi-sWhulVDFelEA5Pb20o8amsQn8TQJyk9A1PqaKyJeLu7aR4c73qnWI4HHKyy5xooBv4PgRFas2b57xRMlZealgGRg=
+
+PAV742Lu0Szw4C|INR|1|cxcxz|202500000003|pay_Qflg8kiBWfm2aS|SUCCESS|2025-06-11 10:35:34|Payment Successful|BARB202500000003|BARB|UPI
+
+akvwEuAgBR-cl7uuWi-sWvoH-ef2hUuVq-8Yf6KJ9apmvrWfut2GK0XR0KCoAQXK0yoFsYIuOmFbq4ggi9F7Ron0pX299L-nMvHgIzyOJJ4=\
+PAV742Lu0Szw4C|INR|1|gfddgd|202500000006|pay_QfmCiKYFkUbTyn|FAILED|2025-06-11 11:06:47|Payment failed|NA|UTIB|CC
+
+select * from doa.echallan where echallanno=202500000007;
+select * from doa.pgechallandetails where echallanno=202500000007;
+
+
+update  doa.echallan where echallanno=202500000007;
+select * from doa.pgechallandetails where echallanno=202500000007;
+
+
+https://www.amazon.in/Sichumaria%C2%AE-Gradient-Pink-Refillable-Extractor/dp/B0BMLTZSVM/ref=asc_df_B0BB2L5ZPJ?mcid=4ccc22e49c0937dcb24df415352dc118&tag=googleshopdes-21&linkCode=df0&hvadid=709857154239&hvpos=&hvnetw=g&hvrand=8871316729168025007&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9040227&hvtargid=pla-1802577491487&gad_source=1&th=1
+
+
+
+2210
+0000
+0010
+0
+
+SELECT setval('doa.echallan_seq', 40, true);
+
+
+202500353176
+202500353175
+
+'AMOPD0555F','ALVPD4824H','BXYPM2826C','AFKPH9204G'
+
+122025225677
+174
+
+अभंग - तुका म्हणे गर्भवासी । सुखे घालावे आम्हांसी
+
+https://www.youtube.com/watch?v=rfXi6hw2mDg
+
+https://www.youtube.com/watch?v=19Xahqx_4u4
+
+https://www.youtube.com/watch?v=q5-cPTA4-7Q
+
+https://www.youtube.com/watch?v=lzySdbH_nmo
+
+
+
+private readonly ClientIpAddress _clientIpAddress;
+ ClientIpAddress clientIpAddress
+_clientIpAddress = clientIpAddress;
+string ipAddress = _clientIpAddress.GetClientIPAddress();
+
+
+BUZPG7085F
+
+
+BUZPG7085F
+202500000020
+8956234589
+
+
+122025228743
+
+CQVPM8423Q
+
+
+ACUREIO VELOSO
+ALFREDO VELOSO
+
+ALEINA SILIVA ANGELICA CARLOVILE XAVIER VELOSO
+AEXACIO RAFAL DEMONTENES FERNANDES VELOSO
+
+ALEIXO NICHOLAU DA FONSECA FERNANDES VELOSO
+ACUREIO RAFAEL DEMOSTENES FERNANDES VELOSO
+
+ACBPO4383N
+
+
+-======================
+https://www.youtube.com/watch?v=Tl4bQBfOtbg&list=RDAnaij-RnEpo&index=2
+		
+		
+		https://echallanws.goa.gov.in/service.asmx
+		
+		
+		gaz part testing
+		AMVPN3839R
+		
+		N0009117
+N0085933
+
+
+	176	BBHPG8485Q					30	MAHADEV GOVIND GAONKAR	N0085933		30				OFFICE OF THE DEAN GOA MEDICAL COLLEGE BAMBOLIM GOA				M	490	N	3  	12-04-1985 12:00:00	20-09-2011 12:00:00	01-07-2024 12:00:00	30-04-2045 12:00:00	01-07-2024 12:00:00				2024107131003086	N	A	Y	C	Y		42		31100	N		BA	N	N 	Y	Y	9421156295	Y		2585					1		N	2	0	Y	1	1		60	N
+	
+	122025293059	6	2025	BBHPG8485Q	57215	52364	21236	4851	490	7870	N0085933	30	142025210019	N	N	2025	3  	42	2585	01-06-2025 12:00:00	30-06-2025 12:00:00		1	1	Y	Y	7870	1
+	
+	122025293059	6	2025	BBHPG8485Q	E1	31100	7870	2025	2585		01-06-2025 12:00:00	30-06-2025 12:00:00	1	1
+122025293059	6	2025	BBHPG8485Q	E26	1800	7870	2025	2585		01-06-2025 12:00:00	30-06-2025 12:00:00	1	1
+122025293059	6	2025	BBHPG8485Q	E27	990	7870	2025	2585		01-06-2025 12:00:00	30-06-2025 12:00:00	1	1
+122025293059	6	2025	BBHPG8485Q	E3	31100	7870	2025	2585		01-06-2025 12:00:00	30-06-2025 12:00:00	1	1
+122025293059	6	2025	BBHPG8485Q	E4	17105	7870	2025	2585		01-06-2025 12:00:00	30-06-2025 12:00:00	1	1
+122025293059	6	2025	BBHPG8485Q	E8	6220	7870	2025	2585		01-06-2025 12:00:00	30-06-2025 12:00:00	1	1
+122025293059	6	2025	BBHPG8485Q	E9	2790	7870	2025	2585		01-06-2025 12:00:00	30-06-2025 12:00:00	1	1
+122025293059	6	2025	BBHPG8485Q	G	57215	7870	2025	2585		01-06-2025 12:00:00	30-06-2025 12:00:00	1	1
+
+
+122025293059	6	2025	BBHPG8485Q		801100107010000	2	2	16		4	7870	2025	N	SA	2585		D26	0	1
+122025293059	6	2025	BBHPG8485Q		801100107020000	2	2	14		4	7870	2025	N	SA	2585		D25	0	1
+122025293059	6	2025	BBHPG8485Q		834200117010000	2	2	4821	2024107131003086	4	7870	2025	N	SA	2585		D31	0	1
+122025293059	6	2025	BBHPG8485Q		865800112010000	2	2	0		4	7870	2025	N	SA	2585		D29	0	1
+
+
+	176	BBHPG8485Q					30	MAHADEV GOVIND GAONKAR	N0085933		30				OFFICE OF THE DEAN GOA MEDICAL COLLEGE BAMBOLIM GOA				M	490	N	3  	12-04-1985 12:00:00	20-09-2011 12:00:00	01-07-2024 12:00:00	30-04-2045 12:00:00	01-07-2024 12:00:00				2024107131003086	N	A	Y	C	Y		42		31100	N		BA	N	N 	Y	Y	9421156295	Y		2585					1		N	2	0	Y	1	1		60	N
+	
+	
+	
+	ADEI Sattari
+	
+	hassena
+	
+	    InsertEmployee_Hist_Details()
+}
+else {
+    UpdateEmployee_Hist_Details()
+}
+GetEmployeeHistoryCount(salarycode)
+
+
+101	52	BCLPB8931P	1003099				30	NIYATI NILESH NAIK	N0064588		30				DTE Accounts Panaji Goa				F	262	N	4  	08-11-1989 12:00:00	20-06-2019 12:00:00	01-07-2025 12:00:00	30-11-2049 12:00:00	01-07-2024 12:00:00		30-11-2020 11:27:51	NN1 	2019107131000359	N	A	Y	C	P	0	30		27100	N	142020001605	B Com	N	N 	Y	Y		Y		6903					1	0	N	2	0	N	1	1		60	Y
+199	52	CUIPS8990R	1000083				30	NANCY SOARES	N0000150		30				Dte. of Accounts,Panaji				F	262	N	4  	25-12-1987 12:00:00	19-07-2010 12:00:00	01-07-2023 12:00:00	31-12-2047 12:00:00	01-07-2024 12:00:00		30-11-2020 11:27:51	NN1 	2010107131000708	N	A	Y	C	P	0	31		33300	N		HSSCE	N	N 	Y	Y		Y		6903					1		N	2	0	N	1	1		60	N
+
+
+
+Sahir komal  BBOPN0999R
+
+pa9
+
+PA9U6
+
+
+Name:Shubham Haldankar
+Email:techsupport1-doa@nic.in
+mob:8149714640
+DOB:15/06/1995
+DOR:30/06/2055
+
+
+>set POSTGRES_CONNECTION_STRING=Server=10.155.4.57;Port=5432;Database=DOA;User Id=postgres;Password=oracle123;
+
+C:\Users\Admin>set ORACLE_CONNECTION_STRING=Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=10.155.4.57)(PORT=1521)))(CONNECT_DATA=(SID=oracledev)(SERVER=dedicated)));Persist Security Info=True;User Id=doa;Password=doa1;
+
+echo %ORACLE_CONNECTION_STRING%
+echo %POSTGRES_CONNECTION_STRING%
+
+$env:POSTGRES_CONNECTION_STRING = "Server=10.155.4.57;Port=5432;Database=DOA;User Id=postgres;Password=oracle123;"
+$env:ORACLE_CONNECTION_STRING = "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=10.155.4.57)(PORT=1521)))(CONNECT_DATA=(SID=oracledev)(SERVER=dedicated)));Persist Security Info=True;User Id=doa;Password=doa1;"
+
+
+echo $env:POSTGRES_CONNECTION_STRING
+
+
+option 1 : SystemPropertiesAdvanced
+Option 2: Set System-wide (then restart VS)
+Press Win + R, type SystemPropertiesAdvanced → Environment Variables
+
+Under System variables or User variables, click New:
+
+Name: POSTGRES_CONNECTION_STRING
+
+Value: your full connection string
+
+Click OK → Restart Visual Studio
+
+⚠️ Environment changes won’t reflect in already-open apps. Restart VS after setting.
+
+
+
+
+service name on 4
+doagoa2.gov
+
+on 5
+ORCLCDB
+
+
+SELECT value FROM v$parameter WHERE name = 'service_names';
+
+CREATE DATABASE LINK mylink15072025
+CONNECT TO payroll IDENTIFIED BY payroll1
+USING '10.190.22.4:1521/doagoa2.gov';
+
+
+
+CREATE DATABASE LINK mylink15072025
+CONNECT TO payroll IDENTIFIED BY payroll1
+USING '10.190.22.4:1521/doagoa2.gov';
+
+nc -zv 10.190.22.5 1521
+tnsping 10.190.22.5:1521
+telnet 10.190.22.5 1521
+
+
+BBHPG8485Q mahadev
+
+GetReportParameters
+
+  'obj_common.OpenConnection()
+        'GetReportParameters("202500000009")
+        'obj_common.CloseConnection()
+		
+		
+		202400808327  CANDIDA ROSARIO FERNADES
+		
+		
+		
+		import issue ddoecs code to be set.
+		ddo 515   AINPN7249R
+		
+		
+		
+	nic office number ---	2410160
+	
+	
+043 	ALRPN8456H  NAKUL NAIK
+
+
+COURT
+AOAPV5367F   JUNE DA CHANGED 17705->17704
+	
+	
+	 'used earlier sice namespace is removed it can be removed "http://tempuri.org/eChallanNo_schema.xsd")
+	 
+	 
+	 202500486523
+	 9810207449
+	 
+	 25601
+	 
+	 epagaar-support@gov.in
+	 
+	 
+	 
+pan in ('FGEOS8975R','AMJPN4915G','ARMPN3569N','COBPB4958K','AYDPK5694B','ANTPN2324A','AKNPN0781A')
+
+AMJPN4915G  6812 3013
+ARMPN3569N	 6812 5888
+FGEPS8975R	6812 14283
+
+202400880975
+202400867772
+202400867770
+
+
+
+baba01011980baba@gmail.com
+b01011980@BABA
+
+shubham101601
+Shubh@m123
+	 
+CVUPP1978B
+ Anushk@29	 
+	 
+	 
+<div class="col-md-6 col-lg-3 mb-3" id="ddlsubschemecontainer" style="display: none;">
+				<label class="form-label-input" for="ddlsubscheme">Detail<span>*</span></label>
+				<select id="ddlsubscheme" class="form-select" asp-for="Model.SelectedDetail">
+					<option value="">-- Select --</option>
+				</select>
+				<span class="text-danger" asp-validation-for="Model.SelectedDetail"></span>
+</div>	 
+
+
+select * from doa.echallan where challanpaid='Y' and demand='12' and recintreasury='Y';
+
+
+select count(*) from doa.echallan2024 where challanpaid='Y' and demand='12' and recintreasury='Y';
+
+select echallanno  from doa.echallan2024 where challanpaid='Y' and demand='12' and recintreasury='Y' and challandate>(to_date('01/01/2024','dd/MM/yyyy'))
+and echallanno not in (select echallanno  from doa.echallan where   demand='12');
+
+select count(*)  from doa.echallan2024 where challanpaid='Y' and demand='12' and recintreasury='Y' and challandate>(to_date('01/01/2024','dd/MM/yyyy'))
+and echallanno not in (select echallanno  from doa.echallan where   demand='12');
+
+select *  from doa.echallan2024 where challanpaid='Y' and demand='12' and recintreasury='Y' and challandate>(to_date('01/01/2024','dd/MM/yyyy'))
+and echallanno not in (select echallanno  from doa.echallan where   demand='12');
+
+insert into doa.echallan(
+select *  from doa.echallan2024 where challanpaid='Y' and demand='12'  and challandate>(to_date('01/01/2024','dd/MM/yyyy'))
+and echallanno not in (select echallanno  from doa.echallan where   demand='12')
+);
+
+
+0202041010100
+0202041010100
+
+
+<add name="DynamicCompressionModule" lockItem="true" preCondition="bitness64" />
+<add name="StaticCompressionModule" lockItem="true" preCondition="bitness64" />
+
+
+DynamicCompressionModule
+%windir%\System32\inetsrv\compdyn.dll
+StaticCompressionModule
+%windir%\System32\inetsrv\compstat.dll
+D:\santosh pc\D\Shubham\HelpDesk\Helpdesk_For_Admin\Help_Desk_source\Helpdesk
+
+
+
+to be changed in options
+auditor
+195	Import Monthly Salary(GZ-DH)	CreateMonthlySalary.aspx	6	4	N	75	4
+
+fr gaz emp_deductions/hist
+195	Import Monthly Salary(GZ-DH)	CreateMonthlySalary.aspx	6	4	N	71	3
+
+
+No.of bills passed=15955
+Net amount =5690868551
+Gross amount=6576133136
+
+
+MPR shubham
+Echallan new services=0
+Number of bills passed=15966
+Gross amount=896,26,00,168 
+Net amount=800,33,75,678 
+Echallanpg and webservice audit.
+e-Receipts
+
+
+9822688336
+202500200078
+
+UPDATE_MONTHLYDATA_GZ
+https://www.youtube.com/watch?v=kd_7TQIAJsI
+
+
+/opt/oracle/product/19c/dbhome_1/bin/dg4odbc
+
+
+/opt/oracle/product/19c/dbhome_1/bin/dg4odbc
+
+
+CREATE PUBLIC DATABASE LINK pg_link
+  CONNECT TO "postgres" IDENTIFIED BY "oracle123"
+  USING 'pgdsn';
+  
+  SID_LIST_LISTENER =
+  (SID_LIST =
+    (SID_DESC =
+      (SID_NAME = pgdsn)
+  (ORACLE_HOME = /opt/oracle/product/19c/dbhome_1)
+(PROGRAM = /opt/oracle/product/19c/dbhome_1/bin/dg4odbc)
+  (ENVS = "LD_LIBRARY_PATH=/usr/lib64:/usr/lib:/opt/oracle/product/19c/dbhome_1/lib")
+  
+  
+  $ORACLE_HOME/network/admin/tnsnames.ora
+  
+  /opt/oracle/product/19c/dbhome_1/bin/dg4odbc
+  
+$ORACLE_HOME/network/admin/listener.ora
+$ORACLE_HOME/hs/admin/init<SID>.ora
+
+[pgdsn]
+Driver     = PostgreSQL
+Servername = 10.155.4.57
+Database   = DOA
+Username   = postgres
+Password   = oracle123
+Port       = 5432
+
+[pgdsn]
+Driver = /usr/pgsql-XX/lib/psqlodbc.so
+Server = 10.155.4.57
+Port = 5432
+Database = DOA
+User = postgres
+Password = oracle123
+Trace = No
+
+vi /etc/odbc.ini
+
+isql -v pgdsn
+
+vi /etc/odbcinst.ini
+
+isql "PG:DSN=pgdsn;UID=postgres;PWD=oracle123;Server=127.0.0.1"
+
+$ORACLE_HOME/hs/log
+
+
+
+[pgdsn]
+Driver = postgresql #/usr/lib64/psqlodbc.so
+Server = 10.155.4.57
+Port = 5432
+Database = DOA
+User = postgres
+Password = oracle123
+Trace = No
+
+
+
+[PostgreSQL]
+Description     = ODBC for PostgreSQL
+Driver          = /usr/lib/psqlodbcw.so
+Setup           = /usr/lib/libodbcpsqlS.so
+Driver64        = /usr/lib64/psqlodbcw.so
+Setup64         = /usr/lib64/libodbcpsqlS.so
+FileUsage       = 1
+
+
+[pgdsn]
+Description     = Postgres over ODBC
+Driver =PostgreSQL
+Server = 10.155.4.57
+Port = 5432
+Database = DOA
+User = postgres
+Password = oracle123
+#Trace = No
+UseDeclareFetch=1
+LowerCaseIdentifier=1
+
+SELECT datname FROM  pg_database;
+
+ORA-28500: connection from ORACLE to a non-Oracle system returned this message:
+
+
+
+
+CREATE PUBLIC DATABASE LINK pg_link17  CONNECT TO "postgres" IDENTIFIED BY "oacle123"  USING 'PGDSTN';
+
+CREATE PUBLIC DATABASE LINK pg_link19  CONNECT TO "postgres"     IDENTIFIED BY "oracle123"  USING 'pgdstn';
+
+  SELECT datname  FROM  pg_database@pg_link19;
+  
+  SELECT DB_LINK,
+       USERNAME,
+       HOST
+FROM   ALL_DB_LINKS
+WHERE  LOWER(DB_LINK) = LOWER('pg_link19'); 
+SELECT * FROM   ALL_DB_LINKS WHERE  LOWER(DB_LINK) = LOWER('pg_link19'); 
+
+SELECT current_database() AS PG_DATABASE FROM   dual@"pg_link19";
+
+
+SELECT SYS_CONTEXT('USERENV', 'SERVICE_NAME')      AS REMOTE_SERVICE,
+       SYS_CONTEXT('USERENV', 'DB_NAME')           AS REMOTE_DB_NAME,
+       SYS_CONTEXT('USERENV', 'SERVER_HOST')       AS REMOTE_HOST
+FROM   dual@"pg_link19";
+
+
+SELECT datname AS pg_database  FROM pg_catalog.pg_database@"pg_link19";
+
+SELECT oid  FROM pg_catalog.pg_database@pg_link19;
+SELECT *  FROM pg_catalog.pg_database@pg_link19;
+
+SELECT current_database() as pg_db  FROM oracle_dual@"pg_link19";
+
+SELECT * FROM "pfms"."apierrors"@pg_link19;
+
+
+-----------------------sqlplus
+
+CREATE PUBLIC DATABASE LINK pg_link7
+CONNECT TO "postgres" IDENTIFIED BY "oracle123"
+USING 'pgdsn';
+  
+  
+    select * from pfms.apierrors@pg_link19;
+  
+CREATE DATABASE LINK pg_link8
+  CONNECT TO CURRENT_USER
+  USING '(DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = localhost)(PORT = 1521))
+    (CONNECT_DATA = (SID = pgdsn)(HS = OK))
+  )';  
+  
+  SELECT datname
+FROM pgdsn@pg_link9;
+
+isql -v PGDSN pg_user pg_pass;
+
+
+CREATE DATABASE LINK pg_link10
+  CONNECT TO doa IDENTIFIED BY "doa1"
+  USING '(DESCRIPTION=
+           (ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))
+           (CONNECT_DATA=(SID=pgdsn)(HS=OK))
+         )';
+  
+  
+  
+CREATE PUBLIC DATABASE LINK pg_link12
+  CONNECT TO "postgres" IDENTIFIED BY "oracle123"
+  USING 'pgdsn';  
+  
+  
+  SELECT datname  FROM  pg_database@pg_link18;
+  
+  
+  CREATE DATABASE LINK postgres_link
+  CONNECT TO postgres IDENTIFIED BY "oracle123"
+  USING 'POSTGRESQL';
+  
+  
+  CREATE PUBLIC DATABASE LINK pg_link17
+  CONNECT TO "postgres" IDENTIFIED BY "oacle123"
+  USING 'PGDSN';
+  
+  SELECT * FROM "pfms"."apierrors"@pg_link19;
+  
+  --------------
+
+
+function sanitize(str) {
+    return $('<div>').text(str).html(); // escapes any HTML
+}
+
+$('#ddlSubMajor').append(
+    $('<option>', {
+        value: sanitize(item.subMajor),
+        text: item.subMajorDescription // jQuery already escapes this
+    })
+);
+
+pszAlgorithmID
+202500000128
+
+sconnect.nic.in
+
+66
+297
+040500102010000
+
+
+<-------encrypt----->
+aspnet_regiis -pef "connectionStrings" "C:\Users\Admin\Desktop\SAEESH 2025\audit\merge_ws_encrypt_4.8"
+<-------decrypt----->
+aspnet_regiis -pdf "connectionStrings" "C:\Users\Admin\Desktop\SAEESH 2025\audit\merge_ws_encrypt_4.8"
+
+
+  <connectionStrings>
+    <add name="KeyConnectionString" connectionString="Server=10.155.4.57;Port=5432;Database=DOA;User Id=postgres;Password=oracle123;Pooling=false" providerName="Npgsql"/>
+    <add name="TreasuryConnectionString" connectionString="Server=10.155.4.57;Port=5432;Database=DOA;User Id=postgres;Password=oracle123;Pooling=false" providerName="Npgsql"/>
+  </connectionStrings>
+  
+  https://www.youtube.com/watch?v=cgLP1a-HuVM&list=RDcgLP1a-HuVM&start_radio=1
+  https://www.youtube.com/watch?v=XP1BeLe9vNs
+
+
+
+
+
+gaz part ->AADPF4950F   RITA FATIMA CALDEIRA
+27:50
+10.155.4.224
+NIC
+NIC
+
+
+AVDPN7500L
+ANAPG2203Q pa33u3 	ANIL S GAONKAR
+
+
+Canira 020 AXQPP0406L  comp adv 50000
+
+
+AJTPD2838H
+
+https://axorhelmets.com/collections/full-face-helmets/products/x-cross-dual-visor-speedometer-helmet?variant=44641927757956
+
+     public  string GetLocalIPAddressVm()
+     {
+//         var host = Dns.GetHostEntry(Dns.GetHostName());
+//         foreach (var ip in host.AddressList)
+//         {
+//             if (ip.AddressFamily == AddressFamily.InterNetwork)
+//             {
+//                 return ip.ToString(); // e.g., 10.0.1.4 or 172.16.x.x
+//             }
+//         }
+//return "";
+
+         foreach (NetworkInterface ni in NetworkInterface.GetAllNetworkInterfaces())
+         {
+             if (ni.OperationalStatus == OperationalStatus.Up)
+             {
+                 foreach (UnicastIPAddressInformation ip in ni.GetIPProperties().UnicastAddresses)
+                 {
+                     if (ip.Address.AddressFamily == AddressFamily.InterNetwork)
+                     {
+                         return ip.Address.ToString();
+                     }
+                 }
+             }
+         }
+         return "127.0.0.1"; // fallback
+
+     }
+ }
+ 
+ https://www.youtube.com/watch?v=sISZM-6GgU8
+ 
+ https://www.youtube.com/watch?v=8SYPKQMW_2Q&list=RD8SYPKQMW_2Q&start_radio=1
+ 
+   CREATE OR REPLACE SYNONYM "DOA"."PGECHALLANDETAILS" FOR "DOA"."PGECHALLANDETAILS"@"NICLINK.GOV"
+     CREATE OR REPLACE SYNONYM "DOA"."ECHALLAN" FOR "DOA"."ECHALLAN"@"NICLINK.GOV"
+	
+	 
+	 CREATE [OR REPLACE] [PUBLIC] SYNONYM [schema.] synonym_name
+  FOR [schema.] object_name[@dblink];
+  
+  
+  CREATE OR REPLACE SYNONYM DOA.PGECHALLANDETAILS FOR DOA.PGECHALLANDETAILS@echallanlink.gov
+  CREATE OR REPLACE SYNONYM DOA.ECHALLAN FOR DOA.ECHALLAN@echallanlink.gov
+--
+
+202500652157
+
+202500654246	
+
+
+select treasury.bundleno.nextval from dual;--15---93690  -----93994
+
+select treasury.rentryno.nextval from dual;--15---13222356  -----13562861
+ 
+ select * from doa.echallan where echallanno in ('202500652157','202500654246');	
+ 
+ select * from treasury.challans where challanno in ('202500652157','202500654246');	
+ 
+ drop sequence TREASURY.BUNDLENO;
+CREATE SEQUENCE  TREASURY.BUNDLENO  MINVALUE 1 MAXVALUE 9999999999999999999999999999 
+INCREMENT BY 1 START WITH 93994 NOCACHE  NOORDER  NOCYCLE  NOKEEP  NOSCALE  GLOBAL ;
+
+drop sequence TREASURY.RENTRYNO;
+CREATE SEQUENCE  TREASURY.RENTRYNO  MINVALUE 1 MAXVALUE 9999999999999999999999999999 
+INCREMENT BY 1 START WITH 13562861 NOCACHE  NOORDER  NOCYCLE  NOKEEP  NOSCALE  GLOBAL ;
+ 
+ 
+
+https://www.flipkart.com/roarx-type-c-8-1-m-iphone-15-cable-original-braided-60w-usb-c-charging-15-15-pro-pro-max/p/itm39cbe3aa51ef4
+
+61031
+
+
+https://siwebuat.sbi.co.in/SBI_SI_WS/Service1.svc
+
+https://siservices.bank.sbi/SBI_SI_WS/Service1.svc?singleWsdl 
+ https://siservices.sbi.bank.in/SBI_SI_WS/Service1.svc?singleWsdl 
+ 
+ https://siservices.sbi.co.in/SBI_SI_WS/Service1.svc?singleWsdl
+
+
+<add name="KeyConnectionString" connectionString="Provider=OraOLEDB.Oracle.1;Password=doa;Persist Security Info=True;User ID=doa;Extended Properties='OLEDB.NET=True;Unicode=True' ;data source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.155.175.133)(PORT=1521))(CONNECT_DATA=(SID=orcl)))"/>
+
+
+
+as per the sbi guidelines
+
+ _logger.LogError(ex, "An error occurred while processing.");
+ 
+ 
+   catch (NullReferenceException ex)
+  {
+      _logger.LogError(ex, "An error occurred while processing.");
+      ViewData["Message"] = ViewData["Message"];
+  }
+  catch (OutOfMemoryException ex)
+  {
+      _logger.LogError(ex, "An error occurred while processing.");
+      ViewData["Message"] = ViewData["Message"];
+  }
+  catch (StackOverflowException ex)
+  {
+      _logger.LogError(ex, "An error occurred while processing.");
+      ViewData["Message"] = ViewData["Message"];
+  }
+  catch (WebException ex)
+  {
+      _logger.LogError(ex, "An error occurred while processing.");
+      ViewData["Message"] = ViewData["Message"];
+  }
+  catch (IOException ex)
+  {
+      _logger.LogError(ex, "An error occurred while processing.");
+      ViewData["Message"] = ViewData["Message"];
+  }
+  
+  
+  
+  https://siservices.sbi.bank.in/SBI_SI_WS/Service1.svc?singleWsdl
+  
+  
+  http://tempuri.org/IService1/Online_Enq_Goa
+  
+  
+  http://tempuri.org/IService1/Online_Enq_GoaResponse
+  
+  
+  
+  https://siservices.bank.sbi/SBI_SI_WS/Service1.svc?singleWsdl
+  
+  
+  older reference in vb
+  
+  https://siwebuat.sbi.co.in/SBI_SI_WS/Service1.svc
+  
+  siservices.sbi.bank.in
+  
+  
+  
+  16
+  
+  2.5(126)   1.91(9)
+  
+  23
+  8909(814)		11842(200)
+  
+  
+  
+  23
+  
+  10620(789)  82500 25149(210)
+  
+  
+  13665(451)  83000 16502(370)
+  
+  
+  GOA_CITIZEN	30	Q2323232	N	N	Y	N	https://merchant.onlinesbi.sbi/merchant/merchantprelogin.htm	https://merchant.onlinesbi.sbi/thirdparties/doubleverification.htm	21-03-2020 12:00:00	https://164.100.183.26/	service.asmx	ValidateRefund	https://smsgw.sms.gov.in/failsafe/HttpLink?username=doagoa.sms&pin=mso07bhe&message=	1
+1001368	30	DdXrJcM5DWPMIjTqwqmv3Q==	N	N	Y	N	https://www.sbiepay.sbi/secure/AggregatorHostedListener	https://www.sbiepay.sbi/payagg/statusQuery/getStatusQuery	21-03-2020 12:00:00	https://164.100.183.26/	service.asmx	ValidateRefund	https://smsgw.sms.gov.in/failsafe/HttpLink?username=doagoa.sms&pin=mso07bhe&message=	3
+
+
+
+
+[pgdsn]
+Description     = Postgres over ODBC
+Driver =PostgreSQL
+Server = 10.155.175.132
+Port = 5432
+Database = doa
+User = postgres
+Password = oracle123
+#Trace = No
+UseDeclareFetch=1
+LowerCaseIdentifier=1
+
+
+[pgdsn]
+Driver = PostgreSQL
+Servername = 10.155.175.132
+Database = doa
+Username = postgres
+Password = pgadmin123
+Port = 5432
+Trace = Yes
+TraceFile = /tmp/pg_odbc_trace.log
+Debug = 1
+
+isql -v pgdsn postgres pgadmin123
+/etc/odbc.ini
+
+      (PROGRAM      = /opt/oracle/product/19c/dbhome_1/bin/dg4odbc)
+      (ENVS         = "LD_LIBRARY_PATH=/usr/lib64:/usr/lib:/opt/oracle/product/19c/dbhome_1/lib")
+	  
+	  
+	  
+	  tnsping "(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.155.175.132)(PORT=5432))(CONNECT_DATA=(SID=pgdsn)(HS=OK)))"
+873
+
+ORACLE_HOME/hs/admin/initpgdsn.ora
+
+
+sudo dnf install odbc-postgresql 
+
+
+https://www.crazygames.com/game/super-bike-the-champion
+
+202500699573
+
+
+https://www.sbiepay.sbi/secure/AggregatorHostedListener#no-back-button
+
+
+syntax to connect to postgress
+select "errorcode" from "pfms"."apierrors"@pg_link3;
+
+
+ vi $ORACLE_HOME/hs/admin/initpgdsn.ora
+/opt/oracle/product/19c/dbhome_1/network/admin
+
+
+CREATE DATABASE LINK pg_link3 CONNECT TO postgres IDENTIFIED BY pgadmin123 USING 'pgdsn';
+
+
+select errorcode from pfms.apierrors;
+
+
+  ----original
+  SID_LIST_LISTENER =
+  (SID_LIST =
+    (SID_DESC =
+      (GLOBAL_DBNAME = ORCLCDB)
+      (ORACLE_HOME = /opt/oracle/product/19c/dbhome_1)
+      (SID_NAME = ORCLCDB)
+    )
+
+  )
+  
+  
+  https://echallanws.goa.gov.in/service.asmx?op=generateEchallanPDFNew
+  
+  AGRPK4017C
+  
+  https://www.crazygames.com/game/suez-canal-training-simulator
+  https://www.crazygames.com/game/sniper-team-3
+  
+  
+https://www.youtube.com/watch?v=qyGPpR15myE
+
+
+
+partyref is not a primary key.
+
+other parameters used along with demand as suggested.
+
+no other columns present which can be used as filter along with demand.
+	
+	
+	
+1.6.197.34
+1.6.228.34
+1.6.229.34 3223
+
+
+PA33U3
+BMVPN7038R
+ARPITA TUKARAM NAIK
+
+240300102050001
+
+moving deduction failed.
+
+
+
+
+PA7U4
+
+ABTPV1694F
+EMPLOYEE :VISHNU VASUDEV VAZE
+
+
+PPBTD29
+
+
+
+select ae.earnlabel,case when temp1.amount> 0 then temp1.amount else 0 end as amount ,
+ISINPUT,ae.common,effectongross,effectonpay,ae.earnid,case when temp1.tempamount is null then 0 else temp1.tempamount end as tempamount,
+case when temp1.EARNPERCENT is null then 1 else temp1.EARNPERCENT end as EARNPERCENT, 
+case when temp1.EARNPERCENT is null then 1 else temp1.EARNPERCENT end as TEMPEARNPERCENT,
+ae.APPROVAL_LEVEL1 from payroll.allearnings ae left JOIN 
+
+(select se.*,case when tse.amount is null then 0 else tse.amount end as tempamount,
+tse.EARNPERCENT as EARNPERCENT, tse.EARNPERCENT as TEMPEARNPERCENT from payroll.emp_earnings se 
+left join payroll.temp_salaryearnings tse on (se.panno = tse.panno and se.partno = tse.partno and se.earnid = tse.earnid) 
+where se.panno = 'BMVPN7038R' and se.usercode = 5649  and se.partno = 1 )temp1
+
+on(ae.earnid = temp1.earnid --and panno = 'BMVPN7038R' and usercode = 5649  and billset = 2022025303 
+--and to_char(fromdate, 'dd/MM/yyyy') = substr(?, 0, 10) 
+--and to_char(todate, 'dd/MM/yyyy') = substr(?, 0, 10)
+)
+where ISINPUT is not null order by labelorder asc;
+
+hr5@nippondata.com
+
+hrhelp@nippondata.com
+
+Krishan.kumar@nippondata.com
+
+egov@nippondata.com
+
+
+--
+
+--
+
+--
+
+202400920184----status to be S
+
+202400920184----
+
+
+
+-------------------------
+
+
+
+
+
+202500299765    put date between 15-04-2025 to 15-05-2025
+
+202CB962AC59075B964B07152D234B70
+
+A25BE73DA817516FDD9DE5FC58B2E56E
+
+
+BGUPC7222H
+DDLPN8080E
+
+BHSPG7865D
+
+doabrn =122025218125
+
+
+
+----------------------------------------------------------------------
+
+Division14
+
+report issue  salslip
+ 
+ABLPF0197M		AGNELO FERNANDES
+ABOPF3357J		AGNELO FERNANDES
+
+
+qury
+
+
+select e.pannum as pan,''  as empcode,e.name,desiname,se.doabrn,CONCAT(CONCAT( to_char(to_date(se.salarymonth,'MM'),'Month'), ', ' ) ,se.salaryyear) as monthyear  ,
+bm.billset,max(case when se. earnid='E3'  then se.amount else 0 end) as basicpay  ,max(case when se. earnid='E2'  then se.amount else 0 end) as gradepay  ,
+max(case when se. earnid='E4'  then se.amount else 0 end) as da  ,max(case when se. earnid='E9'  then se.amount else 0 end) as ta ,
+max(case when se. earnid='E5'  then se.amount else 0 end) as da_arr  ,max(case when se. earnid='E6' then se.amount else 0 end) as ta_arr  , 
+max(case when se. earnid='E8'  then se.amount else 0 end) as hra, max(case when se. earnid='E20' then se.amount else 0 end) as dep_pay  ,
+0 as uniformall  ,max(case when  se.earnid = 'E28' then  se.amount else 0 end) as pca  ,max(case when se. earnid='E29' then se.amount else 0 end) as nursingall  ,
+max(case when  se. earnid='E16'  then  se.amount else 0 end)+ nvl(k.ms1,0) as Misc1  ,0 as Misc2 ,  0 as total  ,0 as prevRec ,0 as curRec , 
+max(ss.gross) as gross,  max(case when dedhead='761000201010000' and deddemand='08' then sd.dedamount else 0 end) as hba,
+max(case when deddemand='08' and dedhead='004904800180000' then sd.dedamount else 0 end) as hba_intr, 
+max(case when ad.dedid='D10' then sd.dedamount else 0 end) as mca2W,max(case when ad.dedid='D18' 
+and dedhead='004904800190000' then sd.dedamount else 0 end) as mca2wintr, max(case when ad.dedid='D11' then sd.dedamount else 0 end) as mca4W, 
+max(case when ad.dedid='D19' then sd.dedamount else 0 end) as mca4wintr, max(case when deddemand='08'  
+and dedhead='761000800020000' then sd.dedamount else 0 end) as compadv,max(case when deddemand='08'  
+and dedhead='004904800310000' then sd.dedamount else 0 end) as compadvintr,  max(case when deddemand='21'  
+and dedhead='021601106010000' then sd.dedamount else 0 end)+max(case when deddemand='76' 
+and dedhead='080180800810000' then sd.dedamount   else 0 end)+ max(case when deddemand='74'  
+and dedhead='070180800810000' then sd.dedamount   else 0 end)+max(case when deddemand='21'  
+and dedhead='020202800810000' then sd.dedamount   else 0 end) as rentLice, case when bm.regular_nill='2' 
+then max(case when   dedhead='834200117020000'  then sd.dedamount    else 0 end) else max(case when   
+dedhead='834200117010000'  then sd.dedamount    else 0 end) end as npscontri,  max(case when deddemand is null  
+and dedhead='801100107020000' then sd.dedamount else 0 end) as IF,max(case when deddemand is null  and dedhead='801100107010000' 
+then sd.dedamount else 0 end) as SF,  max(case when deddemand is null  and dedhead='844301106010000' then  sd.dedamount else 0 end) as HDFC_HBA ,
+max(case when deddemand is null and dedhead='844302106010000'  then sd.dedamount else 0 end) as BOI_HBA,max(case when  dedhead='844303106010000' 
+then sd.dedamount else 0 end) as BOI_MCA, max(case when ad.dedid = 'D29' then sd.dedamount else 0 end) as TDS,   
+max(case when ad.dedid = 'D41' then sd.dedamount else 0 end)+ max(case when ad.dedid = 'D28' 
+then sd.dedamount else 0 end)+ max(case when ad.dedid = 'D42' then sd.dedamount else 0 end)+max(case when ad.dedid = 'D43'
+then sd.dedamount else 0 end)+ max(case when ad.dedid = 'D44' then sd.dedamount else 0 end)+ 
+max(case when ad.dedid = 'D45' then sd.dedamount else 0 end)+ max(case when ad.dedid = 'D40' 
+then sd.dedamount else 0 end)+max(case when ad.dedid = 'D39' then sd.dedamount else 0 end)+max(case when ad.dedid = 'D46' 
+then sd.dedamount else 0 end)+  max(case when sd.dedid is null then sd.dedamount else 0 end) as others,bm.billdesc as billdesc,
+0 as honorarium, e.ppannum as pfno,max(ss.net)-max(ss.ecsamount) as thirdpartyded,max(ss.ecsamount) as ecsamount,
+max(ss.totalded) as totalded,max(ss.net) as netamount from COMMON.employee_details_seeding e      
+inner join eddo.salaryearnings se on (e.pannum=se.panno  ) inner join payroll.allearnings ae 
+on ae.earnid=se.earnid inner join payroll.billset_master bm on (bm.billset=se.billset) 
+inner join eddo.salarydeductions sd on (sd.panno= se.panno and sd.billset=se.billset 
+and sd.salarymonth=se.salarymonth and se.salaryyear=sd.salaryyear and se.doabrn=sd.doabrn) 
+inner join eddo.salarysummary ss on ss.salarymonth=se.salarymonth and ss.salaryyear=se.salaryyear 
+and ss.billset=se.billset and ss.panno=se.panno and ss.doabrn=se.doabrn inner join eddo.desi d on (ss.desicode=d.desicode)  
+left  join payroll.alldeductions ad on ad.dedid=sd.dedid  left join ( select  nvl(sum(amount),0) as ms1,
+se.panno from payroll.allearnings ae inner join eddo.salaryearnings se on ae.earnid=se.earnid where isinput='Y' 
+and se.earnid<>'E5' and se.earnid<>'E6' and se.earnid<>'E20' and se.earnid<>'E28' and se.earnid<>'E29'  
+and se.doabrn = 122025218125 group by se.panno) k on k.panno = e.pannum where  se.salaryyear=2025 and se.salarymonth=04 and bm.ddocode=873 
+and se.doabrn=122025218125    and bm.regular_nill=1 group by e.pannum,e.name,d.desiname,se.doabrn,se.salarymonth,se.salaryyear,e.ppannum ,
+bm.billset,bm.billdesc,print_seq,bm.regular_nill,k.ms1 order by print_seq;
+
+--
+
+ddo238
+
+2025019583
+
+CHECK_PAYROLL_TOTALS_NEW
+
+APTPN1396N
