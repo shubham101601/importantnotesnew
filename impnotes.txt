@@ -46,7 +46,8 @@ test_server@123
 administrator
 Ec#@11@nS@curityAudit
 
-
+10.190.22.11
+net user Administrator ##doa123
 
 https://echallanws.goa.gov.in/
 http://164.100.183.26/
@@ -142,11 +143,11 @@ AIGPD7391H
 
 expdp doa/doa directory=dp_dir dumpfile=doa03102025_500pm.dmp logfile=doa03102025_500pm.log
 
-expdp doa/doa directory=dp_dir dumpfile=doa23122025_0500pm.dmp logfile=doa23122025_0500pm.log tables=pgechallandetails,echallan
+expdp doa/doa directory=dp_dir dumpfile=doa12012025_0500pm.dmp logfile=doa12012025_0500pm.log tables=pgechallandetails,echallan
 
 10	173	1	FEES COLLECTED UNDER FEMA 1999	003003104040000	0
 
-expdp doa/doa directory=dp_dir dumpfile=doa12082025_0930am.dmp logfile=doa06082025_0930am.log tables=pgechallandetails,echallan INCLUDE=SEQUENCE:IN ('ECHALLAN_SEQ')
+expdp doa/doa directory=dp_dir dumpfile=doa02012025_0930am.dmp logfile=doa06082025_0930am.log tables=pgechallandetails,echallan INCLUDE=SEQUENCE:IN ('ECHALLAN_SEQ')
 https://indianbikesspares.com/product/duke-200-ecu-cdi-integral-unit-ju402000/?gad_source=1&gclid=CjwKCAjwpbi4BhByEiwAMC8Jnbq5XvhG7yLLNmvD0KEeiUWgOo4kMt0nrtom1-WkM9rrZ1HKjhSCdRoCKVEQAvD_BwE
 
 
@@ -1348,3 +1349,155 @@ ddo238
 CHECK_PAYROLL_TOTALS_NEW
 
 APTPN1396N
+
+
+https://localhost:7213/Bobsuccess
+
+https://10.155.4.223:8443/Home
+https://localhost:8443/Home
+
+
+
+
+??chages to be made to echallan live
+session in pg attempts to 50 char
+subrepository add two 00
+add excel for pgechallandetails
+
+
+83- Demand No
+0853-00-104-01-00 (Auction Premium Major Minerals)
+
+0853001040100
+
+085300104010000
+
+webconfig
+
+
+
+QuickPayOnlinePaymentModel
+	
+	  public async Task<JsonResult> OnPostGetSubServices(string demand, string servicecode)
+  {			
+	// === 1. Validate input ===
+if (string.IsNullOrWhiteSpace(demand))
+{
+    return new JsonResult(new { error = "Invalid demand parameter." });
+}
+
+// Only allow numeric service codes to prevent injection
+if (string.IsNullOrWhiteSpace(servicecode) || !Regex.IsMatch(servicecode, @"^\d+$"))
+{
+    return new JsonResult(new { error = "Invalid service code." });
+}
+
+
+IValidate _validate;
+
+ IValidate validate
+ 
+  _validate = validate;
+ if (!_validate.ValidateData(_bobsuccmodel.totalamt.Trim(), _validate.DecimalNumberRegex))
+ {
+     _bobsuccmodel.errormessage = _bobsuccmodel.errormessage + "(SP12)";
+     return;
+ }
+ 
+ 
+  [ValidateAntiForgeryToken]
+ public async Task<JsonResult> OnPostSubmit([FromForm] string mobileno, [FromForm] string echallanNo, [FromForm] string captcha)
+ {
+     if (string.IsNullOrWhiteSpace(mobileno) ||    string.IsNullOrWhiteSpace(echallanNo) ||    string.IsNullOrWhiteSpace(captcha))
+     {
+         return new JsonResult(new { success = false, message = "Invalid Input" });
+     }
+
+   
+     
+
+         if ((!_validate.ValidateData(echallanNo, _validate.NumericRegex)) || (echallanNo.Length != 12))
+         {
+             return new JsonResult(new { success = false, message = "Invalid Input" });
+         }
+         if ((!_validate.ValidateData(mobileno, _validate.NumericRegex)) || (mobileno.Length != 10))
+         {
+             return new JsonResult(new { success = false, message = "Invalid Input" });
+         }
+     string safeEchallanNoInput = _sanitizer.Sanitize(echallanNo);
+     string safeMobileNoInput = _sanitizer.Sanitize(mobileno);
+
+     //	string captchCode = _sanitizer.Sanitize(captcha);
+     //if (!CaptchaService.ValidateCaptchaCode(captchCode, HttpContext))
+     //{
+     //                Message ="Invalid CAPTCHA. Please try again.";
+     //                return new JsonResult(new { success = "False", responseText = Message, data = "" });
+     //            }
+
+     //            if (HttpContext.Session.GetString("SmsOtpValid") != "True")
+     //            {
+     //                Message = "Invalid OTP. Please try again.";
+     //                return new JsonResult(new { success = "False", responseText = Message, data = "" });
+     //            }
+
+     CheckPaymentStatusModel = await _paymentStatusRepository.OnSubmit(safeMobileNoInput, safeEchallanNoInput);
+
+         return new JsonResult(new { success = "True", responseText = Message, data = CheckPaymentStatusModel, mobileno = safeMobileNoInput });
+
+    
+ }
+ 
+ 
+ 
+ ---DISABLED
+ 
+ 
+ T0478326
+ T0429206
+ 
+ 
+ AMJPN4918M REFUUND CASE
+ 
+ 
+ 
+ BCNPP8729H dpse2
+ 
+ 
+ 
+ tls 1.3
+ run as administrator in power shell.
+ 
+ # Disable TLS 1.0
+New-Item 'HKLM:\SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.0\Server' -Force
+New-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.0\Server' `
+  -Name 'Enabled' -Value 0 -PropertyType DWord -Force
+New-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.0\Server' `
+  -Name 'DisabledByDefault' -Value 1 -PropertyType DWord -Force
+
+# Disable TLS 1.1
+New-Item 'HKLM:\SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.1\Server' -Force
+New-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.1\Server' `
+  -Name 'Enabled' -Value 0 -PropertyType DWord -Force
+New-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.1\Server' `
+  -Name 'DisabledByDefault' -Value 1 -PropertyType DWord -Force
+
+# Enable TLS 1.2
+New-Item 'HKLM:\SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.2\Server' -Force
+New-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.2\Server' `
+  -Name 'Enabled' -Value 1 -PropertyType DWord -Force
+New-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.2\Server' `
+  -Name 'DisabledByDefault' -Value 0 -PropertyType DWord -Force
+  
+  
+  
+  202500852125,202500871144,202600012337,202500847612
+  
+  
+  ------
+  
+  
+  treasury sonal issue
+  
+  202500434445 treasury.challans entry present but echallan not updated.
+  
+  
