@@ -1,0 +1,96 @@
+create or replace NONEDITIONABLE PROCEDURE REFUNDPARTCREATION
+(
+    echallanno      IN NUMBER DEFAULT 0,
+    refamt          IN NUMBER DEFAULT 0,
+    NODI            IN NUMBER DEFAULT 0,
+    NODII           IN NUMBER DEFAULT 0,
+    salarymonth_in  IN NUMBER DEFAULT 0,
+    salaryyear_in   IN NUMBER DEFAULT 0,
+    finyear_in      IN NUMBER DEFAULT 0,    
+    FD_PI           IN DATE,
+    FDP_II          IN DATE,
+    TD_PI           IN DATE,
+    TD_PII          IN DATE,
+    PANNO_in        IN VARCHAR2,
+    RETURNVALUE_OUT out VARCHAR2,  
+    ERR_MSG_OUT     OUT VARCHAR2
+)
+AS
+    sp_doabrn       NUMBER;
+    sp_billset      NUMBER;
+    sp_dhusercode   NUMBER;
+    
+BEGIN
+
+
+
+insert into payroll.emp_master (
+SELECT OFFICECODE, DDO, PAN, EMPCODE, CLONEID, FROMDATE, TODATE,NODI as  WORKINGDAYS, NAME, ECSCODE, RURALURBAN, STATE,
+DISTRICT, TALUKA, CITYVILLAGE, ADDRESS, BANKACCOUNT, BANKCODE, MICRCODE, GENDER, DESICODE, ACCOTYPE, PAYSCALECODE,
+DOB, DOJ, DOI, DOR, DOLI, DOP, DOC, HEADCODE, PFNO, PFTYPE, PFSTATUS, INSERVICE, FGROUP, PAYOPTION, OTADAYS, PRINTSEQ, 
+PHOTO, BASIC, PHYCHALLENGED, PAYAPPNO, MAXQUAL, NPA, GAZ_ED_STATUS, HRACITYCLASS, ISINCREMENT, MOBILE, ISTA, BILLTYPE,
+DHUSERCODE, BILLDEMAND, BILLHEAD, BILLPNP, BILLCVT, 2 as PARTNO, BILLSET,'Y' CALLSP, PFCATEGORY, AGCODE,'Y' CALLDEDSP, PAYCATEGORY,
+16 as PARTPAYREASON, EMAIL, RETIREAGE, PARTBILL from PAYROLL.EMP_MASTER WHERE PAN=PANNO_in);
+
+select min(eb.doabrn)into sp_doabrn from eddo.salarySUMMARY ss join eddo.ebills eb on ss.doabrn=eb.doabrn
+where  ss.panno= PANNO_in AND ss.salaryyear=salaryyear_in AND ss.SALARYMONTH=salarymonth_in and eb.billstatus=8 ;
+
+--select billset into sp_billset from payroll.emp_parts where panno=PANNO_in and salarymonth=salarymonth_in and salaryyear=salaryyear_in and partno=1;
+
+select dhusercode into sp_dhusercode from payroll.emp_master where pan=PANNO_in and partno=1;
+ 
+
+--removes entires from temp cheques third party based on emp parts date. also for monthly salary advances
+
+update payroll.temp_salarysummary  set  doabrn=sp_doabrn,salarymonth=salarymonth_in ,salaryyear=salaryyear_in,year=finyear_in,
+fromdate=TRUNC(FD_PI),todate=TRUNC(TD_PI),noofdays=NODI --fromdate=to_date(FD_PI,'DD-MM-YYYY'),todate=to_date(TD_PI,'DD-MM-YYYY'),noofdays=NODI 
+where panno =PANNO_in;
+
+update payroll.temp_salarydeductions  set  doabrn=sp_doabrn,salarymonth=salarymonth_in ,salaryyear=salaryyear_in,year=finyear_in
+ where panno =PANNO_in;
+
+ update payroll.temp_salaryearnings  set  doabrn=sp_doabrn,salarymonth=salarymonth_in ,salaryyear=salaryyear_in,year=finyear_in,
+ fromdate=TRUNC(FD_PI),todate=TRUNC(TD_PI)
+ where panno =PANNO_in;
+
+ update payroll.emp_parts  set  salarymonth=salarymonth_in ,salaryyear=salaryyear_in,
+ fromdate=TRUNC(FD_PI),todate=TRUNC(TD_PI)
+ where panno =PANNO_in;
+
+ 
+ --update payroll.temp_chequesthirdparty  set  doabrn=sp_doabrn, fromdate=to_date(FD_PI,'dd/MM/yyyy'),todate=to_date(TD_PI,'dd/MM/yyyy'),
+ --billset=sp_billset, usercode=sp_dhusercode
+ --where pannum =PANNO_in and month=salarymonth_in and year=salaryyear_in;
+
+ 
+ insert into payroll.emp_earnings(select panno,earnid,amount,0 billset,usercode,2 as partno from payroll.emp_earnings where panno=PANNO_in);
+
+ insert into payroll.emp_deductions(select panno,deddemand,dedhead,dedpnp,dedcvt,dedamount,accountno,0 as billset,usercode,dedid,2 as partno, agcode 
+ from payroll.emp_deductions where panno=PANNO_in);
+
+ insert into payroll.emp_summary(
+ select panno,gross,net,ecsamount,totalded,desicode,0 as billset,ecscode,payappnum,scalecode,print_seq,usercode,regular_nill,2 as partno,approvedstatus 
+ from payroll.emp_summary where panno=PANNO_in);
+
+insert into payroll.emp_parts(panno, salarymonth, salaryyear, fromdate, todate, billset, partno) 
+values ( PANNO_in,salarymonth_in,salaryyear_in,TRUNC(FDP_II),  TRUNC(TD_PII),0 ,2  );
+
+insert into doa.INVALIDECHALLAN(ECHALLANNO, VALID, IPADDRESS, REQUESTDATE) values(echallanno,'N','1.1.1.1',sysdate);
+
+
+
+COMMIT;
+RETURNVALUE_OUT:=1;
+
+EXCEPTION
+WHEN OTHERS THEN     
+
+RETURNVALUE_OUT:=0;
+ERR_MSG_OUT:='err';
+
+
+
+ROLLBACK;
+
+--end;
+END REFUNDPARTCREATION;

@@ -143,7 +143,7 @@ AIGPD7391H
 
 expdp doa/doa directory=dp_dir dumpfile=doa03102025_500pm.dmp logfile=doa03102025_500pm.log
 
-expdp doa/doa directory=dp_dir dumpfile=doa12012025_0500pm.dmp logfile=doa12012025_0500pm.log tables=pgechallandetails,echallan
+expdp doa/doa directory=dp_dir dumpfile=doa14012025_0500pm.dmp logfile=doa14012025_0500pm.log tables=pgechallandetails,echallan
 
 10	173	1	FEES COLLECTED UNDER FEMA 1999	003003104040000	0
 
@@ -1501,3 +1501,28 @@ New-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\SecurityProviders
   202500434445 treasury.challans entry present but echallan not updated.
   
   
+  ---HEAD ISSUE
+  202500838243
+  9158757661
+  
+  202600032255
+  7020398187
+  
+  
+  -----refund case----
+  1)duplicate entry in emp master with partpayreason =16 partno=2 party pay as 'Y' and callsp and dedsp='Y' for both parts.
+2)duplicate entry in all three emp tables
+4)update dates of emp_parts and temp tables.
+5)add doabrn to tempsalarysummary and tempcheques third party.
+6)set calldedsp='Y' after import.
+
+(calldedsp to be set even after import for next month?)
+
+
+
+-----gbsss
+
+postgres version 16.8
+os centos 9
+
+
