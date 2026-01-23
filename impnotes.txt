@@ -222,6 +222,8 @@ EMPLOYEE :VISHNU VASUDEV VAZE
 
 PPBTD29
 
+202600049166
+
 
 hr5@nippondata.com
 
@@ -362,4 +364,10 @@ New-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\SecurityProviders
 postgres version 16.8
 os centos 9
 
+
+echalllan gbss
+chalanpush n and p status 
+and dv status G
+
+https://youtu.be/76Oh3eBJ9Tg?si=93kCZhEqSft45nLU
 
